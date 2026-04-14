@@ -1,0 +1,243 @@
+========================================================================
+PAH GENE MINER v2.0 — SUMMARY REPORT
+Generated: 2026-04-14 07:42:28
+========================================================================
+
+Total papers searched: 1023
+Total genes with causal evidence: 402
+  - Truly novel (not in known PAH biology): 393
+  - Known PAH biology (interesting overlap): 9
+
+------------------------------------------------------------------------
+TOP 20 CANDIDATE GENES (by causal evidence score)
+------------------------------------------------------------------------
+
+ 1. BMP10 [KNOWN_PAH_BIOLOGY]
+    Score: 83  |  Human: 3  |  Animal: 1  |  Assoc: 3  |  Papers: 12  |  Years: 2019-2025
+    Best evidence: Results:
+ Five rare and pathogenic BMP10 variants were identified in five patients with CHD-PAH, including three missense mutations (p.Q74R, p.R96Q, p.I335S) and two nonsense mutations (p.Q116Ter, p.R
+    PMIDs: 41159679, 33187088, 30578383, 41222740, 34086873
+
+ 2. AQP1 [NOVEL]
+    Score: 72  |  Human: 4  |  Animal: 2  |  Assoc: 1  |  Papers: 11  |  Years: 2019-2026
+    Best evidence: These were extended by the three genes ATP13A3, AQP1 and SOX17 from March 2018 onwards following the genes' discovery.
+    PMIDs: 40180617, 37007933, 41159679, 35627312, 35346192
+
+ 3. KCNA5 [KNOWN_PAH_BIOLOGY]
+    Score: 66  |  Human: 4  |  Animal: 0  |  Assoc: 2  |  Papers: 7  |  Years: 2019-2025
+    Best evidence: Herein, this study aimed to characterize the functional consequences of seven KCNA5 variants found in a cohort of patients with PAH.
+    PMIDs: 30218748, 36917789, 35346192, 34199176, S2:d0ffbf5b28d1
+
+ 4. SMAD4 [KNOWN_PAH_BIOLOGY]
+    Score: 63  |  Human: 5  |  Animal: 1  |  Assoc: 0  |  Papers: 8  |  Years: 2020-2026
+    Best evidence: HHT is typically caused by loss-of-function gene mutations in the genes ENG, ACVRL1, or SMAD4, all participating in transforming growth factor &#x3b2; (TGF-&#x3b2;) family signaling pathways.
+    PMIDs: 40180617, 40270704, 32573726, 35346192, 32756122
+
+ 5. PDGFD [NOVEL]
+    Score: 58  |  Human: 2  |  Animal: 0  |  Assoc: 3  |  Papers: 5  |  Years: 2020-2022
+    Best evidence: Seven genes with rare deleterious variants were associated with IPAH with false discovery rate smaller than 0.1: three known genes (BMPR2, GDF2, and TBX4), two recently identified candidate genes (SOX
+    PMIDs: 33187088, 33971972, 35246263, 37422716, S2:b7ceedca9dd5
+
+ 6. NOTCH3 [KNOWN_PAH_BIOLOGY]
+    Score: 53  |  Human: 2  |  Animal: 1  |  Assoc: 2  |  Papers: 9  |  Years: 2019-2026
+    Best evidence: In one of the 18 families with PAH, no disease-causing variants were found in any of BMPR2, ACVRL1, ENG, SMAD1/4/8, BMPR1B, NOTCH3, CAV1, or KCNK3.
+    PMIDs: 36292254, 30703135, 34199176, 35811711, 37422716
+
+ 7. LDLR [NOVEL]
+    Score: 49  |  Human: 3  |  Animal: 0  |  Assoc: 2  |  Papers: 7  |  Years: 2021-2026
+    Best evidence: Clinical evaluation revealed a pathogenic variant in the low-density lipoprotein receptor (LDLR) and likely pathogenic variants in sodium voltage-gated channel alpha subunit 5 (SCN5A) and potassium vo
+    PMIDs: 41564389, 40283609, S2:c66867488050, S2:4bcaaa29c078, 37808210
+
+ 8. SMAD1 [KNOWN_PAH_BIOLOGY]
+    Score: 47  |  Human: 3  |  Animal: 0  |  Assoc: 1  |  Papers: 9  |  Years: 2019-2026
+    Best evidence: In one of the 18 families with PAH, no disease-causing variants were found in any of BMPR2, ACVRL1, ENG, SMAD1/4/8, BMPR1B, NOTCH3, CAV1, or KCNK3.
+    PMIDs: 40180617, 30703135, 41676700, S2:3148cb752f13, 35811711
+
+ 9. FBLN2 [NOVEL]
+    Score: 46  |  Human: 1  |  Animal: 0  |  Assoc: 3  |  Papers: 4  |  Years: 2021-2022
+    Best evidence: Seven genes with rare deleterious variants were associated with IPAH with false discovery rate smaller than 0.1: three known genes (BMPR2, GDF2, and TBX4), two recently identified candidate genes (SOX
+    PMIDs: 33971972, 35811711, 37422716, S2:b7ceedca9dd5
+
+10. TET2 [NOVEL]
+    Score: 45  |  Human: 4  |  Animal: 0  |  Assoc: 0  |  Papers: 7  |  Years: 2020-2026
+    Best evidence: Somatic mutations of Tet-methylcytosine-dioxygenase-2 (TET2), a key enzyme in DNA demethylation, occur in cardiovascular disease and are associated with clonal hematopoiesis, inflammation, and adverse
+    PMIDs: 40180617, 38234783, 32192357, 35495859, 40221599
+
+11. FABP4 [NOVEL]
+    Score: 43  |  Human: 0  |  Animal: 4  |  Assoc: 0  |  Papers: 5  |  Years: 2022-2025
+    Best evidence: Genetic deletion of Fabp4 and 5 in Egln1Tie2Cre mice exhibited a reduction of right ventricular systolic pressure (RVSP), RV hypertrophy, and attenuation of pulmonary vascular remodeling, prevention o
+    PMIDs: 40401371, S2:6a5cd455a35e, S2:af132fc5ffc3, S2:95f3412addf4, S2:4c3d4030a85f
+
+12. KLF2 [KNOWN_PAH_BIOLOGY]
+    Score: 38  |  Human: 3  |  Animal: 1  |  Assoc: 0  |  Papers: 6  |  Years: 2022-2025
+    Best evidence: For the first year the panel contained thirteen PAH genes: ACVRL1, BMPR1B, BMPR2, CAV1, EIF2AK4, ENG, GDF2, KCNA5, KCNK3, KLF2, SMAD4, SMAD9 and TBX4.
+    PMIDs: 36466816, 35346192, 38741032, 37422716, 41065575
+
+13. GGCX [NOVEL]
+    Score: 34  |  Human: 1  |  Animal: 0  |  Assoc: 2  |  Papers: 4  |  Years: 2019-2026
+    Best evidence: Tissue kallikrein 1 (KLK1) and gamma glutamyl carboxylase (GGCX) were identified as new candidate risk genes for idiopathic PAH (IPAH) with genome-wide significance.
+    PMIDs: 40180617, 31727138, 35811711, 37422716
+
+14. FLNA [KNOWN_PAH_BIOLOGY]
+    Score: 27  |  Human: 1  |  Animal: 1  |  Assoc: 0  |  Papers: 3  |  Years: 2024-2025
+    Best evidence: Pulmonary hypertension (PH) is an unusual complication of X-linked disease caused by loss-of-function (LOF) variants in the filamin A (FLNA) gene.
+    PMIDs: 39510553, 40049735, 39285959
+
+15. FGF10 [NOVEL]
+    Score: 27  |  Human: 1  |  Animal: 1  |  Assoc: 0  |  Papers: 4  |  Years: 2022-2024
+    Best evidence: Our in vitro functional analyses revealed that TBX4 directly regulates the transcriptional activity of fibroblast growth factor 10 (FGF10), whereas the identified TBX4 variant proteins failed to activ
+    PMIDs: 35914404, 38044468, 37560881, 33967277
+
+16. CXCL10 [NOVEL]
+    Score: 27  |  Human: 0  |  Animal: 1  |  Assoc: 1  |  Papers: 3  |  Years: 2021-2022
+    Best evidence: RNA sequencing revealed an increase in proinflammatory chemokines Cxcl9 and Cxcl10 as a result of Uty knockdown.
+    PMIDs: 35504005, 33836561, 35646965
+
+17. ID1 [NOVEL]
+    Score: 27  |  Human: 1  |  Animal: 1  |  Assoc: 1  |  Papers: 3  |  Years: 2020-2025
+    Best evidence: Moreover, we generated ID1 and ID3 double-knockout (IDs KO) human embryonic stem cells that recapitulated the BMPR2 signalling deficiency of CHD-PAH induced pluripotent stem cells (iPSCs).
+    PMIDs: 34857612, 32998516, 41732312
+
+18. KLK1 [NOVEL]
+    Score: 26  |  Human: 1  |  Animal: 0  |  Assoc: 1  |  Papers: 3  |  Years: 2019-2026
+    Best evidence: Tissue kallikrein 1 (KLK1) and gamma glutamyl carboxylase (GGCX) were identified as new candidate risk genes for idiopathic PAH (IPAH) with genome-wide significance.
+    PMIDs: 40180617, 31727138, 37422716
+
+19. ENPP1 [NOVEL]
+    Score: 26  |  Human: 2  |  Animal: 0  |  Assoc: 0  |  Papers: 2  |  Years: 2023-2024
+    Best evidence: In this study, we report a novel homozygous splice-site pathogenic variant in ENPP1 (NM_006208, c.2230&#x2009;+&#x2009;5G&#x2009;&gt;&#x2009;A; p.Asp701Asnfs*2) residing in C-terminal nuclease-like do
+    PMIDs: 39538190, 37558402
+
+20. TRPC6 [NOVEL]
+    Score: 26  |  Human: 1  |  Animal: 1  |  Assoc: 1  |  Papers: 3  |  Years: 2019-2023
+    Best evidence: Nine patients (only one preterm infant) were identified as harboring genetic variants, including three with pathogenic/likely pathogenic variants in TBX4 and BMPR2 and six with variants of unknown sig
+    PMIDs: 32116663, 36776977, 31382961
+
+------------------------------------------------------------------------
+TRULY NOVEL GENES (not previously in PAH context)
+------------------------------------------------------------------------
+
+  AQP1          score= 72  human=4 animal=2  years=2019-2026
+    These were extended by the three genes ATP13A3, AQP1 and SOX17 from March 2018 onwards following the genes' discovery.
+
+  PDGFD         score= 58  human=2 animal=0  years=2020-2022
+    Seven genes with rare deleterious variants were associated with IPAH with false discovery rate smaller than 0.1: three known genes (BMPR2, GDF2, and T
+
+  LDLR          score= 49  human=3 animal=0  years=2021-2026
+    Clinical evaluation revealed a pathogenic variant in the low-density lipoprotein receptor (LDLR) and likely pathogenic variants in sodium voltage-gate
+
+  FBLN2         score= 46  human=1 animal=0  years=2021-2022
+    Seven genes with rare deleterious variants were associated with IPAH with false discovery rate smaller than 0.1: three known genes (BMPR2, GDF2, and T
+
+  TET2          score= 45  human=4 animal=0  years=2020-2026
+    Somatic mutations of Tet-methylcytosine-dioxygenase-2 (TET2), a key enzyme in DNA demethylation, occur in cardiovascular disease and are associated wi
+
+  FABP4         score= 43  human=0 animal=4  years=2022-2025
+    Genetic deletion of Fabp4 and 5 in Egln1Tie2Cre mice exhibited a reduction of right ventricular systolic pressure (RVSP), RV hypertrophy, and attenuat
+
+  GGCX          score= 34  human=1 animal=0  years=2019-2026
+    Tissue kallikrein 1 (KLK1) and gamma glutamyl carboxylase (GGCX) were identified as new candidate risk genes for idiopathic PAH (IPAH) with genome-wid
+
+  FGF10         score= 27  human=1 animal=1  years=2022-2024
+    Our in vitro functional analyses revealed that TBX4 directly regulates the transcriptional activity of fibroblast growth factor 10 (FGF10), whereas th
+
+  CXCL10        score= 27  human=0 animal=1  years=2021-2022
+    RNA sequencing revealed an increase in proinflammatory chemokines Cxcl9 and Cxcl10 as a result of Uty knockdown.
+
+  ID1           score= 27  human=1 animal=1  years=2020-2025
+    Moreover, we generated ID1 and ID3 double-knockout (IDs KO) human embryonic stem cells that recapitulated the BMPR2 signalling deficiency of CHD-PAH i
+
+  KLK1          score= 26  human=1 animal=0  years=2019-2026
+    Tissue kallikrein 1 (KLK1) and gamma glutamyl carboxylase (GGCX) were identified as new candidate risk genes for idiopathic PAH (IPAH) with genome-wid
+
+  ENPP1         score= 26  human=2 animal=0  years=2023-2024
+    In this study, we report a novel homozygous splice-site pathogenic variant in ENPP1 (NM_006208, c.2230&#x2009;+&#x2009;5G&#x2009;&gt;&#x2009;A; p.Asp7
+
+  TRPC6         score= 26  human=1 animal=1  years=2019-2023
+    Nine patients (only one preterm infant) were identified as harboring genetic variants, including three with pathogenic/likely pathogenic variants in T
+
+  CCR5          score= 25  human=2 animal=1  years=2019-2024
+    The validation experiments showed that those variants in CCR5 and C3AR1 significantly increased the rise of intracellular calcium and the variant in C
+
+  CD36          score= 25  human=0 animal=1  years=2020-2024
+    Silencing of B3GNT2 and the previously reported CD36 gene decreased release of FVIII by HLECs, whereas silencing of B3GNT2, CD36, and PDIA3 decreased 
+
+  NPHP3         score= 25  human=2 animal=0  years=2021-2024
+    Remarkably, the same rare variant was detected in four additional families with hepatorenal disease from UK, US, and Saudi patient cohorts and in addi
+
+  ATP1A3        score= 25  human=1 animal=0  years=2019-2025
+    Phenotypic HCA based on Z-scores revealed three major biological groups of patients with coherent genotype–phenotype relationships: Group 1, severe mu
+
+  FBN1          score= 24  human=1 animal=1  years=2019-2026
+    Fibrillin-1 and fibrillin-2, encoded by FBN1 and FBN2, respectively, play significant roles in elastic fiber assembly, with pathogenic variants causin
+
+  SLC2A1        score= 24  human=2 animal=0  years=2021-2026
+    GLUT1 Deficiency Syndrome 1 (GLUT1DS1) is a neurological disorder caused by either heterozygous or homozygous mutations in the Solute Carrier Family 2
+
+  CCM2          score= 24  human=2 animal=0  years=2020-2020
+    Recently, the first copy number neutral inversion in CCM2 has been identified by whole genome sequencing in an apparently mutation-negative CCM family
+
+  CCM3          score= 24  human=2 animal=0  years=2020-2020
+    Germline mutations in either CCM1 , CCM2 or CCM3 are found in the majority of patients with multiple CCMs or a positive family history.
+
+  CCM1          score= 24  human=2 animal=0  years=2020-2020
+    Germline mutations in either CCM1 , CCM2 or CCM3 are found in the majority of patients with multiple CCMs or a positive family history.
+
+  MYH7          score= 23  human=2 animal=0  years=2022-2024
+    CONCLUSIONS
+This case presents a new likely pathogenic variant in MYH7 and supports the hypothesis that myosin converter mutations constitute a subcla
+
+  STAB2         score= 22  human=1 animal=0  years=2024-2025
+    VWF, ABO, and STAB2 were associated with FVIII and VWF in gene-based analyses.
+
+  STAT3         score= 22  human=0 animal=2  years=2021-2025
+    Intravascular delivery of nanoparticles with a nonintegrating Stat3 expression vector was used to improve neonatal pulmonary angiogenesis in Foxf1WT/S
+
+  CXCL9         score= 21  human=1 animal=1  years=2020-2024
+    RNA sequencing revealed an increase in proinflammatory chemokines Cxcl9 and Cxcl10 as a result of Uty knockdown.
+
+  PFKFB3        score= 20  human=0 animal=2  years=2019-2021
+    We therefore investigated whether glycolytic regulator 6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase (PFKFB3)-mediated endothelial glycolysis 
+
+  CETP          score= 20  human=2 animal=0  years=2022-2023
+    The whole-genome sequencing revealed rare variants in three out of five analyzed patients: a heterozygous variant (rs760657350) located in a splicing 
+
+  ADAR1         score= 20  human=0 animal=2  years=2025-2026
+    CONCLUSIONS
+Hypoxia-induced ADAR1 deficiency upregulates NOCT expression to induce PAEC interferon signaling activation, PAEC apoptosis, and PH.
+
+  PPAR          score= 20  human=0 animal=2  years=2019-2021
+    Reports suggest that peroxisome proliferator-activated receptor-&#x3b3; (PPAR&#x3b3;) has direct action in preventing vascular remodelling in PH.
+
+------------------------------------------------------------------------
+KNOWN PAH BIOLOGY GENES (with causal evidence)
+------------------------------------------------------------------------
+
+  BMP10         score= 83  human=3 animal=1
+    Results:
+ Five rare and pathogenic BMP10 variants were identified in five patients with CHD-PAH, including three missense mutations (p.Q74R, p.R96Q, p
+
+  KCNA5         score= 66  human=4 animal=0
+    Herein, this study aimed to characterize the functional consequences of seven KCNA5 variants found in a cohort of patients with PAH.
+
+  SMAD4         score= 63  human=5 animal=1
+    HHT is typically caused by loss-of-function gene mutations in the genes ENG, ACVRL1, or SMAD4, all participating in transforming growth factor &#x3b2;
+
+  NOTCH3        score= 53  human=2 animal=1
+    In one of the 18 families with PAH, no disease-causing variants were found in any of BMPR2, ACVRL1, ENG, SMAD1/4/8, BMPR1B, NOTCH3, CAV1, or KCNK3.
+
+  SMAD1         score= 47  human=3 animal=0
+    In one of the 18 families with PAH, no disease-causing variants were found in any of BMPR2, ACVRL1, ENG, SMAD1/4/8, BMPR1B, NOTCH3, CAV1, or KCNK3.
+
+  KLF2          score= 38  human=3 animal=1
+    For the first year the panel contained thirteen PAH genes: ACVRL1, BMPR1B, BMPR2, CAV1, EIF2AK4, ENG, GDF2, KCNA5, KCNK3, KLF2, SMAD4, SMAD9 and TBX4.
+
+  FLNA          score= 27  human=1 animal=1
+    Pulmonary hypertension (PH) is an unusual complication of X-linked disease caused by loss-of-function (LOF) variants in the filamin A (FLNA) gene.
+
+  SMAD5         score= 22  human=1 animal=0
+    Further PAH candidate genes were sequenced in the remaining patients exposing two SMAD5 variants, which were clinically and functionally characterized
+
+  TGFBR2        score= 11  human=1 animal=0
+    Specifically, four children had gonosomal aneuploidy (47,XXY [2x], 47,XXX, 48,XXXX), one had a heterozygous complex rearrangement including SHOX gene 
+
